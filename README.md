@@ -1,6 +1,7 @@
 
-Gemini said
-🌿 Vaishnavi Sharma | Data Science Portfolio
+**🌿 Vaishnavi Sharma | Data Science Portfolio**
+
+
 Welcome to the digital home of my data journey! This portfolio is a high-performance, aesthetically pleasing showcase of my expertise in Data Science, Machine Learning, and Engineering.
 
 🚀 Vision
